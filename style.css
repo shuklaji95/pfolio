@@ -16,7 +16,7 @@ body {
 .container1 {
   height: 800px;
   width: 100%;
-  background-image: url("https://drive.google.com/file/d/13myxQ7-mv0IOJR9jZu_yWfBB1Xr7NtIP/view?usp=drive_link");
+  background-image: url("images/photo.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: 75%;
@@ -81,7 +81,7 @@ p span {
 .photo {
   background-position: center;
   height: 400px;
-  background-image: url("photo2.jpg");
+  background-image: url("images/photo2.jpg");
   width: 100%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -145,7 +145,7 @@ p a:hover {
   border-radius: 5px;
   height: 400px;
   position: relative;
-  background-image: url("project2.jpg");
+  background-image: url("images/project2.jpg");
   background-size: cover;
   cursor: pointer;
 }
